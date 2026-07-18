@@ -1,0 +1,6 @@
+torch
+torchvision
+transformers>=4.35
+accelerate
+gradio>=4.0
+Pillow
