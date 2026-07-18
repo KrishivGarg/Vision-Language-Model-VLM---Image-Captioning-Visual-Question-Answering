@@ -1,4 +1,6 @@
-Vision-Language Model (VLM) — Image Captioning & Visual Question Answering
+# Vision-Language Model (VLM) — Image Captioning & Visual Question Answering
+
+live demo link : https://youtu.be/7lMo0lbpO9k
 
 A Gradio-powered web application that uses **Salesforce BLIP-2 (2.7B)** to perform **Image Captioning** and **Visual Question Answering (VQA)**. Upload an image to automatically generate a descriptive caption or ask natural-language questions about the image.
 
